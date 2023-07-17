@@ -1,10 +1,14 @@
 #URL Shortener Console Application
+
 This console application is built using Python and utilizes the tinyurl library to shorten long URLs into shorter, more manageable ones. It provides a convenient way to interactively generate shortened URLs directly from the command line.
 
 ##Requirements
+
 Python 3.x
 tinyurl library (can be installed using pip install tinyurl)
+
 ##Usage
+
 Clone the repository or download the code files.
 Install the required dependencies using the command pip install -r requirements.txt.
 Run the url_shortener.py file using the command python URL_shortener.py.
