@@ -3,6 +3,7 @@ import pyshorteners
 
 #Taking user input 
 Userer_enterd_url = input('Please Enter The URL: ')
+print('Here is your shorted URL:  ',end)
 
 #Function take input and print shorted url
 def url_Shortner(url):
